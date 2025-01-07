@@ -1,0 +1,10 @@
+$primary: #e64345; // Cinnabar
+$secondary: #31304c; // Martinique (reassigned as secondary)
+$success: #7a8f4d; // Asparagus
+$info: #31304c; // Martinique
+$warning: #f87e15; // Ecstasy
+$danger: #f44336; // Pomegranate
+$light: #f8f9fa; // Default Bootstrap light (optional, adjust if needed)
+$dark: #212529;
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss"

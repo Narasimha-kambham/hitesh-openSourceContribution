@@ -1,0 +1,23 @@
+{
+  "name": "hitesh-opensourcecontribution",
+  "version": "1.0.0",
+  "description": "Repo is refreshed.",
+  "homepage": "https://github.com/Narasimha-kambham/hitesh-openSourceContribution#readme",
+  "bugs": {
+    "url": "https://github.com/Narasimha-kambham/hitesh-openSourceContribution/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narasimha-kambham/hitesh-openSourceContribution.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
